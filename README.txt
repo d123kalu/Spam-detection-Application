@@ -8,3 +8,5 @@ Mirical Williams
 4. Once thats done, a table with all the calculated values will appear.
 5. You can test any files you want, 
    you just have to firstly click on train Ham files and Secondly click on the train spam files.
+
+https://github.com/d123kalu/assignment1
